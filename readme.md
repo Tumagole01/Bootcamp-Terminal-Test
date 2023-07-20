@@ -1,0 +1,1 @@
+[![Node.js CI](https://github.com/Tumagole01/Bootcamp-Terminal-Test/actions/workflows/node.js.yml/badge.svg)](https://github.com/Tumagole01/Bootcamp-Terminal-Test/actions/workflows/node.js.yml)
